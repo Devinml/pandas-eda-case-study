@@ -14,6 +14,12 @@ After a review of the dataset and assessment of missing data, our team decided t
 
 
 #### EDA - How did the development of the Boston transit system change over time? 
+The number of station openings showed a few distinct spikes, the highest being 28 stations opened in 1973. This also corresponded to the higest number of station closures in one year. The track openings and closures matched the stations, as would be expected.
+![](images/open_station.png)
+![](images/close_station.png)
+![](images/open_track.png)
+![](images/close_track.png)
+
 The number of transit stations between 1972 and 2020 increased significantly. The lines expanded, and the number of stations further away from the city increased.
 
 ![](images/system_map.png)
